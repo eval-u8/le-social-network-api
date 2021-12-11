@@ -10,7 +10,9 @@
 
 # le-social-network-api 🧑🏻
 
-This is an API that contains the backend so run a social network powered by Mongoose, Node.js and Express.
+This is an API that contains the backend to run a social network powered by Mongoose, Node.js and Express.
+
+The database was built on MongoDB and deployed on Heroku.
 
 
 ## Quirks 🎯
