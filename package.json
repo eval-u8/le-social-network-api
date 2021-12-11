@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.1"
+  },
+  "name": "le-social-network-api",
+  "description": "A social networking API challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalecillos/le-social-network-api.git"
+  },
+  "author": "Ernesto.V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evalecillos/le-social-network-api/issues"
+  },
+  "homepage": "https://github.com/evalecillos/le-social-network-api#readme"
+}
