@@ -23,7 +23,8 @@ It's pretty simple yet robust and scalable.
 
 ## Walkthrough 👀 
 
-[Video Walkthrough](https://quiet-plains-39124.herokuapp.com/)
+[Video Walkthrough](https://youtu.be/8WG6lICWs6U)
+[Heroku Link](https://tranquil-lake-76546.herokuapp.com/api/users)
 
 
 ## License 📓
